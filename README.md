@@ -1,2 +1,2 @@
-# Angry-Bird-stage-2
-We have learned the inheritance concept
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
